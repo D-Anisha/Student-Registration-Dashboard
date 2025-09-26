@@ -3,7 +3,6 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A lightweight, client-side student registration management system built with vanilla HTML, CSS, and JavaScript. Features a responsive design with local storage persistence and comprehensive CRUD operations.
 
@@ -313,7 +312,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/D-Anisha)
 
 ## 🙏 Acknowledgments
 
@@ -325,8 +324,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For questions and support:
-- **Issues** - [GitHub Issues](https://github.com/yourusername/student-registration-system/issues)
-- **Email** - support@yourproject.com
+- **Issues** - [GitHub Issues](https://github.com/D-Anisha/Student-Registration-Dashboard/issues)
 - **Documentation** - This README and inline code comments
 
 ---
@@ -334,7 +332,7 @@ For questions and support:
 **🌟 Star this repository if it helped you learn web development!**
 
 ### Quick Links
-- [Live Demo](https://yourusername.github.io/student-registration-system/) (if hosted)
-- [Download ZIP](https://github.com/yourusername/student-registration-system/archive/refs/heads/main.zip)
-- [Report Bug](https://github.com/yourusername/student-registration-system/issues/new?template=bug_report.md)
-- [Request Feature](https://github.com/yourusername/student-registration-system/issues/new?template=feature_request.md)
+- [Live Demo](https://yourusername.github.io/Student-Registration-Dashboard/) (if hosted)
+- [Download ZIP](https://github.com/D-Anisha/Student-Registration-Dashboard/archive/refs/heads/main.zip)
+- [Report Bug](https://github.com/D-Anisha/Student-Registration-Dashboard/issues/new?template=bug_report.md)
+- [Request Feature](https://github.com/D-Anisha/Student-Registration-Dashboard/issues/new?template=feature_request.md)
